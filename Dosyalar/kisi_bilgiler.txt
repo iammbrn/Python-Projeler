@@ -1,0 +1,4 @@
+Mauro İcardi, 555-234-5678,mauro@gmail.com
+Fernando Muslera, 555-345-6789,muslera@gmail.com
+Lucas Toreira, 555-456-7890,lucas@gmail.com
+Dries Mertens,543-123-6789,mertens@gmail.com
